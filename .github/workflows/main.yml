@@ -44,4 +44,4 @@ jobs:
         run: ls
         
       - name: Here's your README.
-        run: cat readme.md
+        run: cat README.md
